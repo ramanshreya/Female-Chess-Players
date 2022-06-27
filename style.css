@@ -17,6 +17,10 @@ img {
     background-size: cover;
 }
 
+a:link {
+    color: #827397;
+  }
+
 .plot-holder {
     margin-bottom: 1em;
 }
@@ -39,3 +43,4 @@ img {
     font-size: 3em;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
